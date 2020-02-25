@@ -1,4 +1,4 @@
-Ninety Nine Bottles of Pop
+Ninety Nine Bottles of Pop and lemonade
 
 99 bottles of pop on the wall
 99 bottles of pop
@@ -20,3 +20,8 @@ There is only one bottle of pop on the wall
 one bottle of pop.
 If the last bottle should happen to fall,
 Guess how many bottles are on the wall.
+
+99 bottles of lemonade on the wall
+99 bottles of lemonade
+If one of those bottles should happen to fall,
+98 bottles of lemonade on the wall.
